@@ -1,3 +1,5 @@
+This project was made during Web Application Project (iti0302) lecture in Taltech.
+
 ## OneLouder
 
 #### Introduction
