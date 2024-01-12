@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Josefin';
+    src: url('./fonts/JosefinSlab-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Norican';
+    src: url('./fonts/Norican-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DancingScript';
+    src: url('./fonts/DancingScript-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caveat';
+    src: url('./fonts/Caveat-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Italiana';
+    src: url('./fonts/Italiana-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
