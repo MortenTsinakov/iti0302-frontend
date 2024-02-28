@@ -22,8 +22,8 @@ To run the front-end you need to install node.js and npm.
 Before starting the front-end, you should run the database and back-end.
 
 1. Clone the project
-2. Run 'npm install'
-3. Run 'npm start'
+2. Run 'npm install' (from the directory where 'package-lock.json' file is located)
+3. Run 'npm start' (from the directory where 'package-lock.json' file is located)
 
 #### Screenshots of the app
 
