@@ -1,3 +1,5 @@
+This project was developped as part of the Web Application Project (iti0302) course in Taltech.
+
 ## OneLouder
 
 #### Introduction
