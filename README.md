@@ -13,7 +13,6 @@ A music app designed for enthusiasts who want a straightforward way to manage th
 #### Technologies Used
 
 - React
-- React DOM
 - Material UI
 
 #### Setting up development environment
