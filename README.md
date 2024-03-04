@@ -24,6 +24,8 @@ Before starting the front-end, you should run the database and back-end.
 2. Run ```npm install``` command (from the directory where 'package-lock.json' file is located)
 3. Run ```npm start``` command (from the directory where 'package-lock.json' file is located)
 
+Front-end runs on 'http://localhost:3000'
+
 #### Screenshots of the app
 
 <table>
